@@ -12,3 +12,8 @@ that helps the model focus on important patterns by reducing unnecessary repetit
 this pretraining, we fine-tune the entire model for our specific task. Experiments on benchmark binary segmentation
 tasks demonstrate that our model achieves competitive accuracy with substantially reduced parameter count and faster
 inference, positioning it as a practical alternative for deployment in real-time and resource-limited clinical environments.
+
+
+# Framework
+
+<img width="1809" height="927" alt="image" src="https://github.com/user-attachments/assets/63e1a656-6c81-488c-a95b-c09016530905" />
