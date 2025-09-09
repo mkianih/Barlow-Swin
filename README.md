@@ -21,3 +21,6 @@ inference, positioning it as a practical alternative for deployment in real-time
 # Results Comparison on different datasets
 
 <img width="966" height="496" alt="image" src="https://github.com/user-attachments/assets/a8297316-b286-4db8-8be5-b7ffb80c96c5" />
+
+# Arxiv Link
+https://arxiv.org/abs/2509.06885
