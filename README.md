@@ -20,7 +20,12 @@ inference, positioning it as a practical alternative for deployment in real-time
 
 # Results Comparison on different datasets
 
-<img width="966" height="496" alt="image" src="https://github.com/user-attachments/assets/a8297316-b286-4db8-8be5-b7ffb80c96c5" />
+<img width="966" height="496" alt="image" src="https://github.com/user-attachments/assets/d6f351ec-75c5-4311-b090-22337c065e1f" />
+
+# A short demo video of real-time blood cell segmentation
+
+https://github.com/user-attachments/assets/a5949779-bef5-47ca-a714-56166d7d52cf
+
 
 # Arxiv Link
 https://arxiv.org/abs/2509.06885
